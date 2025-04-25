@@ -19,8 +19,8 @@ This is a cross-platform mobile application developed using [Flutter](https://fl
 
 Example:
 
-![Demo Screenshot](![image](https://github.com/user-attachments/assets/04936a4c-2d19-414c-8e5f-b2d614d4e672)
-)
+![Screenshot](https://github.com/user-attachments/assets/9a4d4f3b-2f65-4eff-bab3-3e548c406474)
+
 
 ---
 
